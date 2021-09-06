@@ -1,5 +1,5 @@
 # ecommerce--app
-A web app for the online order stuff .
+A web app for the  order online ..
 User Permissions
 Admin
 
