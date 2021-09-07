@@ -27,7 +27,6 @@ The MERN Stack
 
     MongoDB - Document database - to store data as JSON
     Express.js - Back-end web application framework running on top of Node.js
-    React - Front-end web app framework used
     Node.js - JavaScript runtime environment
 
 Middleware & tools
